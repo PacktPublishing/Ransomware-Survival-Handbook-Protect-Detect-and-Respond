@@ -1,0 +1,42 @@
+
+Date: 2024-12-12
+Time: 10:05:12
+Event: Outbound connection
+Source IP: 192.168.10.5
+Destination IP: 8.8.8.8 (Google DNS)
+Port: 53
+
+Date: 2024-12-12
+Time: 10:10:05
+Event: Outbound connection
+Source IP: 192.168.10.5
+Destination IP: 93.184.216.34 (Dropbox API)
+Port: 443
+
+Date: 2024-12-12
+Time: 10:45:18
+Event: Outbound connection
+Source IP: 192.168.10.12
+Destination IP: 185.212.123.45
+Port: 9001
+
+Date: 2024-12-12
+Time: 10:47:00
+Event: Outbound connection
+Source IP: 192.168.10.12
+Destination IP: 203.0.113.89
+Port: 443
+
+Date: 2024-12-12
+Time: 10:50:33
+Event: Inbound connection
+Source IP: 192.168.10.12
+Destination IP: 192.168.10.20
+Port: 445 (SMB)
+
+Date: 2024-12-12
+Time: 11:05:15
+Event: Outbound connection
+Source IP: 192.168.10.20
+Destination IP: 52.217.170.12 (AWS S3 Bucket)
+Port: 443

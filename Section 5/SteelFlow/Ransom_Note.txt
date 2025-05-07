@@ -1,0 +1,24 @@
+
+!!! IMPORTANT !!!
+
+All your files have been encrypted.
+To recover your files, you must purchase a decryption tool.
+
+HOW TO RECOVER YOUR FILES:
+1. Install the TOR browser and visit our payment page at:
+   http://recovery-files.onion
+
+2. Enter your unique identifier to access the decryption process:
+   ID: 1234567890ABCDEFG
+
+3. Send exactly 0.5 BTC to the following Bitcoin wallet:
+   Wallet Address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+
+4. After payment is confirmed, you will receive the decryption tool.
+
+WARNING:
+- Do not attempt to decrypt the files using third-party software; this may result in permanent data loss.
+- Payment must be made within 72 hours, or your files will be permanently deleted.
+
+Example of encrypted file:
+example_document.enc

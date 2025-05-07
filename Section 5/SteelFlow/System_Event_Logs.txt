@@ -1,0 +1,25 @@
+
+Date: 2024-12-12
+Time: 10:10:25
+Event: Scheduled Task Created
+User: pmiller@steelflow.local
+Task Name: UpdateScheduler
+Task Path: C:\Windows\System32\taskeng.exe
+
+Date: 2024-12-12
+Time: 10:20:45
+Event: Failed Login Attempt
+User: administrator@steelflow.local
+Source IP: 192.168.10.12
+
+Date: 2024-12-12
+Time: 10:45:30
+Event: Remote Desktop Session Opened
+User: administrator@steelflow.local
+Source IP: 192.168.10.5
+
+Date: 2024-12-12
+Time: 11:15:00
+Event: User Login
+User: jsmith@steelflow.local
+Source IP: 192.168.10.10

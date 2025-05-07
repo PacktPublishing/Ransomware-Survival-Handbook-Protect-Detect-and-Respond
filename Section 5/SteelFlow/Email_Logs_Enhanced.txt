@@ -1,0 +1,28 @@
+
+Date: 2024-12-11
+Time: 08:15:12
+Sender: invoices@steelflowvendors.com
+Recipient: jsmith@steelflow.local
+Subject: Overdue Invoice Payment Reminder
+Attachment: Invoice_Overdue_2024_12.pdf
+
+Date: 2024-12-11
+Time: 09:00:45
+Sender: hr@steelflow.local
+Recipient: all_staff@steelflow.local
+Subject: Year-End Holiday Schedule
+Attachment: Holiday_Schedule.pdf
+
+Date: 2024-12-11
+Time: 09:45:33
+Sender: noreply@secure-billing.com
+Recipient: pmiller@steelflow.local
+Subject: Payment Failed - Action Required
+Attachment: PaymentDetails_2024.exe
+
+Date: 2024-12-11
+Time: 10:30:00
+Sender: noreply@tracking-shipment.com
+Recipient: jdoe@steelflow.local
+Subject: Shipment Update
+Attachment: TrackingDetails2024.pdf

@@ -1,0 +1,26 @@
+
+Date: 2024-12-12
+Time: 10:00:00
+Event: File downloaded
+User: pmiller@steelflow.local
+File Path: C:\Users\pmiller\Downloads\PaymentDetails_2024.exe
+
+Date: 2024-12-12
+Time: 10:01:15
+Event: File executed
+User: pmiller@steelflow.local
+Process: C:\Users\pmiller\Downloads\PaymentDetails_2024.exe
+
+Date: 2024-12-12
+Time: 10:15:00
+Event: Unauthorized file modifications detected
+User: pmiller@steelflow.local
+Affected Files:
+    - C:\Shared\ProductionData.xlsx
+    - C:\Shared\Financial_Report.docx
+
+Date: 2024-12-12
+Time: 11:00:00
+Event: File opened
+User: jsmith@steelflow.local
+File Path: C:\Shared\TeamMeetingNotes.docx
